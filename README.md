@@ -30,6 +30,9 @@ npm run dev
 ```console
 npx remotion render
 ```
+```console
+npx remotion render MyVideo out/video.mp4
+```
 
 **Upgrade Remotion**
 
